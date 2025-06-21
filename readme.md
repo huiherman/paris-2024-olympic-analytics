@@ -23,10 +23,12 @@ To transform raw Olympic performance data into an engaging narrative that reveal
 
 2. **Power BI Dashboards**  
    - **Dashboard 1: Medal Performance** – Top nations, disciplines, and standout athletes
+   
    ![image](https://github.com/user-attachments/assets/2aa782c2-ebc2-4aec-8682-449a0251677a)
  
    - **Dashboard 2: Athlete Demographics** – Age, gender, and cross-national representation patterns  
    - Features: Interactive slicers, bar charts, heatmaps, maps, and responsive filters
+   
    ![image](https://github.com/user-attachments/assets/98f5f562-ab77-48c7-8c19-83028aa25708)
 
 
@@ -34,7 +36,6 @@ To transform raw Olympic performance data into an engaging narrative that reveal
    - One-page vertical infographic structured by themes (country dominance, top athletes, gender balance, age distribution, and global reach)  
    - Design guided by accessibility, simplicity, and cognitive design principles
 
-   ![image](https://github.com/user-attachments/assets/492348eb-5a10-44a0-a496-a59234475469)
    ![image](https://github.com/user-attachments/assets/a38710f3-391a-4c07-8831-966595b81310)
 
 
