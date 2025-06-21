@@ -1,7 +1,5 @@
 
 # Paris 2024 Olympics: Performance, Participation & Progress  
-**Carleton University – ITIS 5434V: Data Visualization for Business Analytics**  
-**Group 5: Srisesha V., Mohamed H., Herman H., Fredericus S., Deidre H.**  
 
 ## 📌 Summary  
 A comprehensive data storytelling project that uses Power BI and Visme to explore medal trends, athlete demographics, and global participation patterns at the Paris 2024 Olympic Games.  
