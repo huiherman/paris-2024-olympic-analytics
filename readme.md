@@ -39,8 +39,7 @@ To transform raw Olympic performance data into an engaging narrative that reveal
 
 
 5. **Video Presentation Plan**  
-   - Five-minute group presentation highlighting dashboards, visual design rationale, and data insights  
-   - Each group member led a thematic segment  
+   - Five-minute presentation highlighting dashboards, visual design rationale, and data insights  
 
 ---
 
